@@ -14,21 +14,17 @@ Some Pages of Website:
 
 Home Page
 
-![home](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
+![Home](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
 
 Login Page
 
-![Login Page](https://user-images.githubusercontent.com/87755170/184550718-f78d2e05-d90f-46cb-8a07-e3dcc3a538d3.png)
+![Active Drives](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
 
 Student Panel
 
-![student panl](https://user-images.githubusercontent.com/87755170/184550794-a778a02d-748c-490d-97ba-bf68c22fd3f4.png)
-
-Admin Panel
-
-![Screenshot 2022-05-20 234626](https://user-images.githubusercontent.com/87755170/184550961-84913a45-65ac-4a70-a5b9-233709dd4465.png)
+![Posted Drives by a company](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
 
 Check Eligibility
 
-![database](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
+![Database](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
 
