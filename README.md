@@ -14,7 +14,7 @@ Some Pages of Website:
 
 Home Page
 
-![Home](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
+![Home](https://github.com/DhruvChoudhari/TPC_PROJ/blob/main/Screenshot%20(650).png)
 
 Login Page
 
