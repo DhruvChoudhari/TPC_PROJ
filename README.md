@@ -12,19 +12,17 @@ Graduated students are transferred to the Alumni Section (partial implementation
 
 Some Pages of Website:
 
-Home Page
+Home Page :
 
-![Home](https://github.com/DhruvChoudhari/TPC_PROJ/blob/main/Screenshot%20(650).png)
+![Home](https://github.com/DhruvChoudhari/TPC_PROJ/blob/main/Screenshot%20(648).png)
 
-Login Page
+Company :
 
-![Active Drives](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
+![Posted Drives by a company](https://github.com/DhruvChoudhari/TPC_PROJ/blob/main/company.png)
 
-Student Panel
+Database :
 
-![Posted Drives by a company](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
+![Database](https://github.com/DhruvChoudhari/TPC_PROJ/blob/main/Screenshot%202023-06-13%20032637.png)
 
-Check Eligibility
-
-![Database](https://drive.google.com/drive/folders/1GkN80X7yZs5nlJQPk8Yt9oDf_4UdeDVR)
-
+Active Drives
+![Active Drives](https://github.com/DhruvChoudhari/TPC_PROJ/blob/main/Screenshot%20(649).png)
